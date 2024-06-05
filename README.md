@@ -1,11 +1,11 @@
 # Interactive system for generating chords
 Acest sistem de tip MIDI Effect este realizat din doua efecte MIDI: un device ce converteste miscarile realizate la camera web in note, respectiv un device de generare de acorduri ce converteste notele muzicale individuale generate prin camera video in acordurile corespunzatoare intr-o scala selectata. Notele acordului pot fi, de asemenea, “ciupite” ca la o chitară, în loc să fie cântate toate simultan. Generatorul de acorduri include 7 moduri, multe tipuri de acorduri suplimentare, opțiuni de inversiune și de articulare a acordurilor, precum și o randomizare îmbunătățită a notelor “ciupite”. Ambele dispositive sunt realizate in MaxforLive din Ableton 12.
 
-Mentiune:
+#### **Mențiune**
 
 Deoarece nu pot incarca direct prin GitHub foldere cu mai mult de 100Mb, am lasat mai jos un link ce contine doua proiecte demo realizate cu sistemul realizat in Ableton Live 12:
 
-
+- [Demo fara camera video](https://we.tl/t-rtwEWWMdZH);
 
 ## (Instalare)
 Cele doua dispozitive pot fi descarcate din acest repo. Pentru a putea fi utilizate in Ableton Live 12, cele doua dispozitive trebuie incluse in folderul director: 
