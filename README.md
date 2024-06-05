@@ -20,6 +20,8 @@ Sistemul poate fi folosit in doua moduri: fie prin separarea fiecarui dispozitiv
 
 ![V-217 Chord Generator Interface.png](https://github.com/VictorDucuGhioca/PCON-proiect-final/blob/main/assets/V-217%20Chord%20Generator%20Interface.png)
 
+![Video Motion Sounds by Hiei and V-217.png](https://github.com/VictorDucuGhioca/PCON-proiect-final/blob/main/assets/Video%20Motion%20Sounds%20by%20Hiei%20and%20V-217.png)
+
 ## (Istoric)
 
 (13.05) ...
