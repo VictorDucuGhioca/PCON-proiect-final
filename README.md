@@ -1,6 +1,10 @@
 # Interactive system for generating chords
 Acest sistem de tip MIDI Effect este realizat din doua efecte MIDI: un device ce converteste miscarile realizate la camera web in note, respectiv un device de generare de acorduri ce converteste notele muzicale individuale generate prin camera video in acordurile corespunzatoare intr-o scala selectata. Notele acordului pot fi, de asemenea, “ciupite” ca la o chitară, în loc să fie cântate toate simultan. Generatorul de acorduri include 7 moduri, multe tipuri de acorduri suplimentare, opțiuni de inversiune și de articulare a acordurilor, precum și o randomizare îmbunătățită a notelor “ciupite”. Ambele dispositive sunt realizate in MaxforLive din Ableton 12.
 
+![V-217 Chord Generator Interface.png](https://github.com/VictorDucuGhioca/PCON-proiect-final/blob/main/assets/V-217%20Chord%20Generator%20Interface.png)
+
+![Video Motion Sounds by Hiei and V-217.png](https://github.com/VictorDucuGhioca/PCON-proiect-final/blob/main/assets/Video%20Motion%20Sounds%20by%20Hiei%20and%20V-217.png)
+
 #### **Mențiune**
 
 Deoarece nu pot incarca direct prin GitHub foldere cu mai mult de 100Mb, am lasat mai jos un link ce contine doua proiecte demo realizate cu sistemul realizat in Ableton Live 12:
@@ -18,9 +22,7 @@ Cele doua dispozitive pot fi descarcate din acest repo. Pentru a putea fi utiliz
 ## (Utilizare)
 Sistemul poate fi folosit in doua moduri: fie prin separarea fiecarui dispozitiv, fie prin folosirea lor impreuna. Prin folosirea celor doua dispozitive impreuna, trebuie sa se respecte o anumita ordine astfel: prima oara se deschide Video Motion Sounds by Hiei and V-217, iar apoi V-217 Chord Generator, dupa care se poate deschide orice instrument doreste utilizatorul pentru a putea crea o progresie de acorduri pentru cantecul pe care il compune intr-un mod interactiv.
 
-![V-217 Chord Generator Interface.png](https://github.com/VictorDucuGhioca/PCON-proiect-final/blob/main/assets/V-217%20Chord%20Generator%20Interface.png)
-
-![Video Motion Sounds by Hiei and V-217.png](https://github.com/VictorDucuGhioca/PCON-proiect-final/blob/main/assets/Video%20Motion%20Sounds%20by%20Hiei%20and%20V-217.png)
+![Untitled.png](https://github.com/VictorDucuGhioca/PCON-proiect-final/blob/main/assets/Untitled.png)
 
 ## (Istoric)
 
