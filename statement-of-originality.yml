@@ -1,31 +1,35 @@
 # adapted from https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
 
 # put *your* name here
-name:
+name: Ducu-Ghioca Victor
 
 declaration: >-
   I declare that everything I have submitted in this assignment is entirely my
-  own work, with the following exceptions:
-
-
-# add as many "name+comment" entries as necessary
-# (or remove it altogether if you haven't collaborated with anyone)
-collaboration:
-  - name:
-    comment: >-
-      
+  own work, with the following exceptions:    
 
 # add as many "url+licence+comment" entries as necessary
 # (or remove it altogether if you haven't used any external code)
 code:
-  - comment:
-    url:
-    licence:
+  - comment: Inspiration for chord generator
+    url: https://maxforlive.com/library/device/917/chord-generator
+    licence: -
 
+code:
+- comment: Inspiration for chord generator
+  url: https://maxforlive.com/library/device/2189/xeno-chord-explorer
+  licence: -
 
-# add as many "url+licence+comment" entries as necessary
-# (or remove it altogether if you haven't used any external assets)
-assets:
-  - comment:
-    url:
-    licence:
+code:
+- comment: Inspiration for chord generator
+  url: https://maxforlive.com/library/device/3920/nylon-chord-generator
+  licence: -
+
+code:
+- comment: Inspiration for chord generator
+  url: https://maxforlive.com/library/device/6333/chorb
+  licence: -
+
+code:
+- comment: I used the M4L device from HIEI in order to make the chord generator working more interractive
+  url: https://maxforlive.com/library/device/9921/181-motion-harp
+  licence: -
