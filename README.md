@@ -2,8 +2,10 @@
 Acest sistem de tip MIDI Effect este realizat din doua efecte MIDI: un device ce converteste miscarile realizate la camera web in note, respectiv un device de generare de acorduri ce converteste notele muzicale individuale generate prin camera video in acordurile corespunzatoare intr-o scala selectata. Notele acordului pot fi, de asemenea, “ciupite” ca la o chitară, în loc să fie cântate toate simultan. Generatorul de acorduri include 7 moduri, multe tipuri de acorduri suplimentare, opțiuni de inversiune și de articulare a acordurilor, precum și o randomizare îmbunătățită a notelor “ciupite”. Ambele dispositive sunt realizate in MaxforLive din Ableton 12.
 
 ## (Instalare)
-Cele doua dispozitive pot fi descarcate din acest repo. Pentru a putea fi utilizate in Ableton Live 12, cele doua dispozitive trebuie incluse in folderul urmator: 
+Cele doua dispozitive pot fi descarcate din acest repo. Pentru a putea fi utilizate in Ableton Live 12, cele doua dispozitive trebuie incluse in folderul director: 
+
 -> pentru Windows: \Users\[username]\Documents\Ableton\User Library
+
 -> pentru MacOS: Macintosh HD/Users/[username]/Music/Ableton/User Library.
 
 
