@@ -30,6 +30,8 @@ Utilizatorul va crea o linie de bass in acel track MIDI (fie inregistrand notele
 
 ![testare generator.png](https://github.com/VictorDucuGhioca/PCON-proiect-final/blob/main/assets/testare%20generator.png)
 
+
+Dispozitivul care utilizeaza camera video are reperezentate in partea de sus a camerei video 12 linii reprezentand cele 12 note muzicale. Atunci cand utilizatorul se misca in dreptul lor, acestea transmit informatia MIDI catre sintetizator, care genereaza notele muzicale. De asemenea, camera poate fi pornita sau oprita la alegerea utilizatorului prin apasarea butoanelor close si open. In plus, daca utilizatorul are mai multe camere web atasata calculatorului, atunci el poate alege ce camera sa foloseasca din prima lista afisata in interfata dispozitivului Max.
 ## (Istoric)
 
 (13.05) ...
