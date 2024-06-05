@@ -24,6 +24,12 @@ Sistemul poate fi folosit in doua moduri: fie prin separarea fiecarui dispozitiv
 
 ![Untitled.png](https://github.com/VictorDucuGhioca/PCON-proiect-final/blob/main/assets/Untitled.png)
 
+Pentru generarea de acorduri, se va deschide V-217 Chord Generator intr-un track nou MIDI in Ableton, se va alege gama pe care vrem sa o folosim (de la C la B), tipul acordului (major, minor, dorian, etc.), precum si felul lui (triad, shell, 11th, sus2, etc.). Notele colorate in verde ce se pot observa in kslider indica notele gamei pe care utilizatorul doreste sa o utilizeze.
+
+Utilizatorul va crea o linie de bass in acel track MIDI (fie inregistrand notele de bass, fie introducand un fisier MIDI in track-ul respectiv), dupa care se va crea un nou track MIDI, se va face send din al doilea track la primul ce contine generatorul si astfel in cel de-al doilea track va apararea un fisier MIDI ce contine progresia de acorduri creata de utilizator. 
+
+![testare generator.png](https://github.com/VictorDucuGhioca/PCON-proiect-final/blob/main/assets/testare%20generator.png)
+
 ## (Istoric)
 
 (13.05) ...
