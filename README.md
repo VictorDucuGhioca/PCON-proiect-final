@@ -10,9 +10,9 @@ Deoarece nu pot incarca direct prin GitHub foldere cu mai mult de 100Mb, am lasa
 ## (Instalare)
 Cele doua dispozitive pot fi descarcate din acest repo. Pentru a putea fi utilizate in Ableton Live 12, cele doua dispozitive trebuie incluse in folderul director: 
 
--> pentru Windows: \Users\[username]\Documents\Ableton\User Library
+- pentru Windows: \Users\[username]\Documents\Ableton\User Library
 
--> pentru MacOS: Macintosh HD/Users/[username]/Music/Ableton/User Library.
+- pentru MacOS: Macintosh HD/Users/[username]/Music/Ableton/User Library.
 
 
 ## (Utilizare)
