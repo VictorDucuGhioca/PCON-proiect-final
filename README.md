@@ -33,13 +33,13 @@ Pentru realizarea sistemului, m-am inspirat dupa urmatoarele link-uri:
 
 - https://maxforlive.com/;
 
-- https://maxforlive.com/library/device/6333/chorb
+- https://maxforlive.com/library/device/6333/chorb;
 
-- https://maxforlive.com/library/device/3920/nylon-chord-generator	
+- https://maxforlive.com/library/device/3920/nylon-chord-generator;
 
-- https://maxforlive.com/library/device/917/chord-generator
+- https://maxforlive.com/library/device/917/chord-generator;
 
-- https://maxforlive.com/library/device/2189/xeno-chord-explorer
+- https://maxforlive.com/library/device/2189/xeno-chord-explorer.
 
 # Dezvoltarea proiectului
 
