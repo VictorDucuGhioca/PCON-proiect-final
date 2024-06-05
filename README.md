@@ -18,6 +18,8 @@ Cele doua dispozitive pot fi descarcate din acest repo. Pentru a putea fi utiliz
 ## (Utilizare)
 Sistemul poate fi folosit in doua moduri: fie prin separarea fiecarui dispozitiv, fie prin folosirea lor impreuna. Prin folosirea celor doua dispozitive impreuna, trebuie sa se respecte o anumita ordine astfel: prima oara se deschide Video Motion Sounds by Hiei and V-217, iar apoi V-217 Chord Generator, dupa care se poate deschide orice instrument doreste utilizatorul pentru a putea crea o progresie de acorduri pentru cantecul pe care il compune intr-un mod interactiv.
 
+![V-217 Chord Generator Interface.png](https://github.com/VictorDucuGhioca/PCON-proiect-final/blob/main/assets/V-217%20Chord%20Generator%20Interface.png)
+
 ## (Istoric)
 
 (13.05) ...
