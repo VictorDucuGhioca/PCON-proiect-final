@@ -7,9 +7,9 @@ Acest sistem de tip MIDI Effect este realizat din doua efecte MIDI: un device ce
 
 #### **Mențiune**
 
-Deoarece nu pot incarca direct prin GitHub foldere cu mai mult de 100Mb, am lasat mai jos un link ce contine doua proiecte demo realizate cu sistemul realizat in Ableton Live 12:
+Deoarece nu pot incarca direct prin GitHub foldere cu mai mult de 100Mb, am lasat mai jos un link ce contine un proiect demo realizat cu sistemul in Ableton Live 12:
 
-- [Demo fara camera video](https://we.tl/t-rtwEWWMdZH);
+- [Demo](https://we.tl/t-rtwEWWMdZH);
 
 ## (Instalare)
 Cele doua dispozitive pot fi descarcate din acest repo. Pentru a putea fi utilizate in Ableton Live 12, cele doua dispozitive trebuie incluse in folderul director: 
