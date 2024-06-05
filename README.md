@@ -1,4 +1,4 @@
-# (Titlul)
+# Interactive system for generating chords
 (Scurtă descriere)
 
 ## (Instalare)
