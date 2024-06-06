@@ -35,11 +35,11 @@ Dispozitivul care utilizeaza camera video are reprezentate in partea de sus a ca
 
 ## (Istoric)
 
-(13.05) ...
+(16.05) Realizarea generatorului de acorduri
 
-(3.06) ...
+(25.05) Realizarea unui proiect demo in Ableton Live 12 folosind generatorul de acorduri
 
-(X.06) ...
+(30.05) Implementarea unui dispozitiv ce creeaza note pe baza miscarilor mainii
 
 ## (Link-uri)
 Pentru realizarea sistemului, m-am inspirat dupa urmatoarele link-uri:
