@@ -1,10 +1,6 @@
 # Interactive system for generating chords
 Acest sistem de tip MIDI Effect este realizat din doua efecte MIDI: un device ce converteste miscarile realizate la camera web in note, respectiv un device de generare de acorduri ce converteste notele muzicale individuale generate prin camera video in acordurile corespunzatoare intr-o scala selectata. Notele acordului pot fi, de asemenea, “ciupite” ca la o chitară, în loc să fie cântate toate simultan. Generatorul de acorduri include 7 moduri, multe tipuri de acorduri suplimentare, opțiuni de inversiune și de articulare a acordurilor, precum și o randomizare îmbunătățită a notelor “ciupite”. Ambele dispositive sunt realizate in MaxforLive din Ableton 12.
 
-![V-217 Chord Generator Interface.png](https://github.com/VictorDucuGhioca/PCON-proiect-final/blob/main/assets/V-217%20Chord%20Generator%20Interface.png)
-
-
-
 #### **Mențiune**
 
 Deoarece nu pot incarca direct prin GitHub foldere cu mai mult de 100Mb, am lasat mai jos un link ce contine un proiect demo realizat cu sistemul in Ableton Live 12:
@@ -25,6 +21,8 @@ Sistemul poate fi folosit in doua moduri: fie prin separarea fiecarui dispozitiv
 ![Untitled.png](https://github.com/VictorDucuGhioca/PCON-proiect-final/blob/main/assets/Untitled.png)
 
 Pentru generarea de acorduri, se va deschide V-217 Chord Generator intr-un track nou MIDI in Ableton, se va alege gama pe care vrem sa o folosim (de la C la B), tipul acordului (major, minor, dorian, etc.), precum si felul lui (triad, shell, 11th, sus2, etc.). Notele colorate in verde ce se pot observa in kslider indica notele gamei pe care utilizatorul doreste sa o utilizeze.
+
+![V-217 Chord Generator Interface.png](https://github.com/VictorDucuGhioca/PCON-proiect-final/blob/main/assets/V-217%20Chord%20Generator%20Interface.png)
 
 Utilizatorul va crea o linie de bass in acel track MIDI (fie inregistrand notele de bass, fie introducand un fisier MIDI in track-ul respectiv), dupa care se va crea un nou track MIDI, se va face send din al doilea track la primul ce contine generatorul si astfel in cel de-al doilea track va apararea un fisier MIDI ce contine progresia de acorduri creata de utilizator. 
 
